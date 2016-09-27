@@ -8,7 +8,7 @@ Sounds kind of appropiate as elevator music.
 
 
 ## Acknowledgments
-Thanks to Nina Aranda for musical consulting, if something doesn't sound right is my fault for not knowing enough theory nor having the time to learn it :/
+Thanks to Nina Aranda for musical consulting, if something doesn't sound right it's my fault for not knowing enough theory nor having the time to learn it :/
 
 
 ## FAQ:
