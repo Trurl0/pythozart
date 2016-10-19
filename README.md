@@ -52,5 +52,5 @@ Not for the moment, but is on the list. I'm thinking on adding some violins, but
 
 #### ¿Why does the keyboard has delay? 
 
-Because it's not a separate process, but I have no intention to solve it for the moment. It's only for testing, pick your own instrument if you wanna play along (don't forget to record and send it if you wanna make me happy! :] ).
+Because it's not a separate process, but I have no intention to solve it for the moment. It's only for testing, pick your own instrument if you wanna play along (don't forget to record and send it to m.xanxez@hotmail.com if you wanna make me happy! :] ).
 
