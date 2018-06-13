@@ -6,9 +6,15 @@ Also prints random poetry at the same time so you have something to read while l
 
 Sounds kind of appropiate as elevator music.
 
+Written for Python 2.7, will probably fail in python 3.
+
+No external python dependencies, just run pythozart.py.
+
+Uses some OS calls for playing sounds, should work on most Windows and Linux systems, but I guarantee nothing.
+
 
 ## Acknowledgments
-Thanks to Nina Aranda for musical consulting, if something doesn't sound right it's my fault for not knowing enough theory nor having the time to learn it :/
+Thanks to Nina Aranda for musical consulting, if something doesn't sound right it's my fault for not knowing enough theory :/
 
 
 ## FAQ:
